@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://toshi52kan.github.io/post/practice/</loc>
+  </url>
+  
+  <url>
     <loc>https://toshi52kan.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://toshi52kan.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toshi52kan.github.io/post/</loc>
   </url>
   
   <url>
